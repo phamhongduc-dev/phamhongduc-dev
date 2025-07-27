@@ -1,0 +1,70 @@
+PHAM HONG DUC
+Fulllstack Developer
+ 	08/03/2001	 	Ho Chi Minh City, Vietnam
+ 	0343547310
+ 	phamhongduc
+
+ 	nroduc.contact@gmail.com
+ 	phamhongduc.com
+
+________________________________________
+CAREER OBJECTIVE
+________________________________________
+I am a Full-Stack Developer with 2 years of experience, specializing in React.js (frontend) and Node.js (backend). I have participated in projects in healthcare, education, management, and AI chatbot development using the AI Agent Framework. My goal is to grow comprehensively in both frontend and backend, focusing on user-friendly interfaces, high performance, and stable, scalable backend systems. I continuously learn new technologies to improve my skills and deliver high-quality products.
+________________________________________
+WORK EXPERIENCE
+________________________________________
+AIVOS CO., LTD	09/2024 – Present
+Backend Developer
+•	Designed and developed backend web applications using NestJS with a focus on clean, scalable architecture and RESTful API standards.
+•	Analyzed business requirements, designed system architecture, and created database structures (MariaDB) and data processing flows tailored to each project.
+•	Set up and maintained CI/CD processes using Jenkins, automating deployment to production environments for optimal workflow efficiency.
+•	Monitored and managed systems on VPS and Google Cloud Platform (GCP), resolving performance and security issues promptly.
+•	Built chatbot workflows using n8n, integrated with platforms like websites and fan pages to automate customer support processes.
+•	Collaborated closely with cross-functional teams during development and deployment to ensure on-time delivery and quality outcomes.
+P.U.I.VN COMPANY LIMITED	09/2023 - 09/2024
+Freelancer Fullstack Developer
+•	Developed custom web applications for clients, handling both frontend and backend responsibilities.
+•	Built responsive, modern UIs using React.js, TypeScript, TanStack Query, and Tailwind CSS, ensuring smooth and consistent user experiences.
+•	Designed and optimized RESTful APIs with Express.js, integrating with MySQL and PostgreSQL for efficient and stable data flow.
+•	Enhanced system performance by optimizing queries and applying indexing strategies in the database.
+•	Worked directly with clients to gather requirements, analyze problems, and deliver tailored technical solutions..
+BEE TECH CO.,LTD	06/2022 - 04/2023
+Internship Frontend Developer
+•	Studied and practiced frontend development technologies including React.js, TypeScript, and MUI through internal projects and guided materials.
+•	Observed real project workflows from ideation to product deployment.
+•	Learned from senior developers about component optimization, state management, and UI performance tuning.
+•	Gained familiarity with API integration and collaboration between frontend and backend teams.
+•	Used modern development tools like Git and CI/CD pipelines; participated in Agile meetings to understand project progress management.
+•	Actively joined internal code reviews to improve programming skills and adopt professional coding standards..
+________________________________________
+PERSONAL PROJECTS
+________________________________________
+Software Engineering Blog
+📌 Website: phamhongduc.com
+A personal website I built to share knowledge about programming, open-source software, and my experiences during learning and working. This blog serves as a repository for quality technical content and aims to foster an open, collaborative programming community. 
+Built with Next.js, using MDX to combine markdown content with dynamic components, and supports multilingual routing (i18n).
+Online Learning Platform
+📌 Website: learning.phamhongduc.com
+I developed a full-stack online learning platform featuring video lectures, quizzes, essay assignments, course management, and progress tracking. The project aims to deliver an interactive, flexible, and secure learning experience.
+•	Backend: Express.js, TypeScript, PostgreSQL – handles authentication, authorization, and course content management.
+•	Frontend: React.js, TypeScript, React Query, Shadcn UI, Tailwind CSS – responsive and user-friendly interface.
+•	Infrastructure: Data query optimization, CI/CD deployment, server configuration with Nginx, and background processing for stable performance.
+________________________________________
+EDUCATION
+________________________________________
+THUYLOI UNIVERSITY	09/2019 - 04/2024
+Information Technology
+GPA: 8.47/10
+________________________________________
+SKILLS
+________________________________________
+•	Frontend: React.js, Next.js, Tailwind CSS, Shadcn UI, HTML, CSS, TypeScript, JavaScript
+•	Backend: Node.js, Express.js, NestJS, RESTful APIs, WebSocket
+•	Database: PostgreSQL, MySQL, MongoDB
+•	AI & Automation: AI Agent Frameworks, n8n (workflow automation)
+•	DevOps & Tools: CI/CD, Docker, Nginx, Agile methodologies, Git
+________________________________________
+CERTIFICATIONS
+________________________________________
+React - The Complete Guide 2022 (incl. React Router & Redux)

@@ -54,13 +54,13 @@ _Internship Frontend Developer_
 
 A personal website to share programming knowledge, open-source software, and experiences. Built with Next.js, MDX, and supports i18n.
 
-### [Online Learning Platform](https://learning.phamhongduc.com)
+### [DVHCVN - Tra cứu sáp nhập đơn vị hành chính Việt Nam](https://dvhcvn.phamhongduc.com)
 
-A full-stack platform with video lectures, quizzes, assignments, course management, and progress tracking.
+A web application for looking up Vietnamese administrative units after the 2025 merger according to Resolution 202/2025/QH15, helping citizens and businesses accurately search for information about 34 new provinces (from 63 old provinces).
 
-- **Backend:** Express.js, TypeScript, PostgreSQL
-- **Frontend:** React.js, TypeScript, React Query, Shadcn UI, Tailwind CSS
-- **Infra:** Data query optimization, CI/CD, Nginx, background processing
+- **Backend:** Nest.js, TypeScript, PostgreSQL
+- **Frontend:** Rext.js, TypeScript, React Query, Tailwind CSS
+- **Features:** Interactive maps, smart search, administrative boundary visualization
 
 ---
 

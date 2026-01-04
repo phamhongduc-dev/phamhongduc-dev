@@ -24,7 +24,7 @@ I am a Full-Stack Developer with 2+ years of experience, specializing in React.j
 
 <!--
 
-**AIVOS CO., LTD** (09/2024 – Present)
+**AIVOS CO., LTD** (09/2024 – 10/2025)
 _Backend Developer_
 
 - Designed and developed backend web applications using NestJS with clean, scalable architecture and RESTful APIs.

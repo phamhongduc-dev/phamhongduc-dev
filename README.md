@@ -20,7 +20,11 @@ I am a Full-Stack Developer with 2+ years of experience, specializing in React.j
 
 ## 💼 Work Experience
 
-**AIVOS CO., LTD** (09/2024 – Present)  
+🤐 **Psst... currently not disclosing my work experience details!**
+
+<!--
+
+**AIVOS CO., LTD** (09/2024 – Present)
 _Backend Developer_
 
 - Designed and developed backend web applications using NestJS with clean, scalable architecture and RESTful APIs.
@@ -30,7 +34,7 @@ _Backend Developer_
 - Built chatbot workflows using n8n, integrated with websites and fan pages.
 - Collaborated with cross-functional teams to ensure on-time delivery and quality outcomes.
 
-**P.U.I.VN COMPANY LIMITED** (09/2023 - 09/2024)  
+**P.U.I.VN COMPANY LIMITED** (09/2023 - 09/2024)
 _Freelancer Fullstack Developer_
 
 - Developed custom web applications (frontend & backend).
@@ -39,12 +43,14 @@ _Freelancer Fullstack Developer_
 - Enhanced system performance via query optimization and indexing.
 - Worked directly with clients to gather requirements and deliver tailored solutions.
 
-**BEE TECH CO.,LTD** (06/2022 - 04/2023)  
+**BEE TECH CO.,LTD** (06/2022 - 04/2023)
 _Internship Frontend Developer_
 
 - Practiced React.js, TypeScript, and MUI through internal projects.
 - Learned component optimization, state management, and UI performance tuning.
 - Gained experience with API integration and Agile workflows.
+
+-->
 
 ---
 

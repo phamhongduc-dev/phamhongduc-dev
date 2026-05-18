@@ -18,7 +18,7 @@
 <div>&nbsp;</div>
 
 <div align="left">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=phamhongduc-dev&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=phamhongduc-dev&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 
 ### Hi there 🍨
 
@@ -172,10 +172,10 @@ _Internship Frontend Developer_
 <!-- GitHub Stats -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phamhongduc-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhongduc-dev&layout=compact&theme=tokyonight&hide_border=true&locale=en" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=phamhongduc-dev&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=phamhongduc-dev&langs_count=8&layout=compact&text_color=718096&bg_color=ffffff" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=phamhongduc-dev&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=phamhongduc-dev" />
 
 </div>
 

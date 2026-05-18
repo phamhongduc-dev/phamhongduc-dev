@@ -1,20 +1,79 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=560&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pham+Hong+Duc!;Full-Stack+Developer+from+Vietnam" />
-</h1>
-<h3 align="center">Full-Stack Developer | React.js | Node.js | Next.js | NestJS</h3>
+<div align="center">
+<!-- dynamic typing effect -->
+<div>
+  <a href="https://phamhongduc.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=835&lines=console.log(%22Hi%2C+I'm+Pham+Hong+Duc%22);Full-Stack+Developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Welcome+to+my+GitHub!&center=true&size=25" />
+  </a>
+</div>
+<!-- knock code pictures -->
 
-<p align="center">
-  <a href="mailto:nroduc.contact@gmail.com">nroduc.contact@gmail.com</a> |
-  <a href="https://phamhongduc.com">phamhongduc.com</a> |
-  Ho Chi Minh City, Vietnam
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</picture>
+
+ <!-- for beauty -->
+
+<div>&nbsp;</div>
+
+<div align="left">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=phamhongduc-dev&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hi there 🍨
+
+- 👋 Hi, I'm **Pham Hong Duc**.
+- 💻 Full-Stack Developer with 2+ years of experience.
+- 🧡 Specializing in **React.js**, **Next.js**, **Node.js** & **NestJS**.
+- 🌏 Based in Ho Chi Minh City, Vietnam.
+- 🚀 Passionate about building scalable & high-performance web apps.
+- 💬 Keep learning as long as life lasts. Fighting!!!
+- 📫 Email: nroduc.contact@gmail.com
+- 🌐 Website: [phamhongduc.com](https://phamhongduc.com)
+</div>
+
+<!-- Snake Code Contribution Map -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phamhongduc-dev/phamhongduc-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phamhongduc-dev/phamhongduc-dev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/phamhongduc-dev/phamhongduc-dev/output/github-snake-dark.svg" />
+</picture>
+
+<!-- Quotes -->
+<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div><br/>
+
+<!-- GitHub Trophies 🏆 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=phamhongduc-dev&row=1&column=7&theme=onedark)](https://phamhongduc.com)
+
+<!-- ########################################## -->
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+</div>
+
+## 🚀 Personal Projects
+
+### [Software Engineering Blog](https://phamhongduc.com)
+
+A personal website to share programming knowledge, open-source software, and experiences. Built with Next.js, MDX, and supports i18n.
+
+### [DVHCVN - Tra cứu sáp nhập đơn vị hành chính Việt Nam](https://dvhcvn.phamhongduc.com)
+
+A web application for looking up Vietnamese administrative units after the 2025 merger according to Resolution 202/2025/QH15, helping citizens and businesses accurately search for information about 34 new provinces (from 63 old provinces).
+
+- **Backend:** Nest.js, TypeScript, PostgreSQL
+- **Frontend:** Next.js, TypeScript, React Query, Tailwind CSS
+- **Features:** Interactive maps, smart search, administrative boundary visualization
 
 ---
 
-## 🧑‍💻 About Me
+## 🎓 Education
 
-I am a Full-Stack Developer with 2+ years of experience, specializing in React.js (frontend) and Node.js/NestJS (backend). I have worked on projects in healthcare, education, management, and AI chatbot development. My focus is on building user-friendly interfaces, high-performance, and scalable backend systems. I am passionate about learning new technologies and delivering high-quality products.
+**THUYLOI UNIVERSITY** (09/2019 - 04/2024)  
+_Information Technology_  
+GPA: 8.47/10
 
 ---
 
@@ -54,37 +113,41 @@ _Internship Frontend Developer_
 
 ---
 
-## 🚀 Personal Projects
-
-### [Software Engineering Blog](https://phamhongduc.com)
-
-A personal website to share programming knowledge, open-source software, and experiences. Built with Next.js, MDX, and supports i18n.
-
-### [DVHCVN - Tra cứu sáp nhập đơn vị hành chính Việt Nam](https://dvhcvn.phamhongduc.com)
-
-A web application for looking up Vietnamese administrative units after the 2025 merger according to Resolution 202/2025/QH15, helping citizens and businesses accurately search for information about 34 new provinces (from 63 old provinces).
-
-- **Backend:** Nest.js, TypeScript, PostgreSQL
-- **Frontend:** Rext.js, TypeScript, React Query, Tailwind CSS
-- **Features:** Interactive maps, smart search, administrative boundary visualization
-
----
-
-## 🎓 Education
-
-**THUYLOI UNIVERSITY** (09/2019 - 04/2024)  
-_Information Technology_  
-GPA: 8.47/10
-
----
-
 ## 🛠️ Skills
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, Shadcn UI, HTML, CSS, TypeScript, JavaScript
-- **Backend:** Node.js, Express.js, NestJS, RESTful APIs, WebSocket
-- **Database:** PostgreSQL, MySQL, MongoDB
-- **AI & Automation:** AI Agent Frameworks, n8n (workflow automation)
-- **DevOps & Tools:** CI/CD, Docker, Nginx, Agile, Git
+<div align="center">
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+<!-- Database -->
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<!-- DevOps & Tools -->
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<!-- Other -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+</div>
 
 ---
 
@@ -94,96 +157,29 @@ GPA: 8.47/10
 
 ---
 
-<!-- SOCIALS & STATS (unchanged) -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/phamhongduc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="phamhongduc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/phamhongduc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phamhongduc" height="30" width="40" /></a>
-<a href="https://fb.com/trollaze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trollaze" height="30" width="40" /></a>
-<a href="https://dribbble.com/phamhongduc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="phamhongduc" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/phamhongduc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="phamhongduc" height="30" width="40" /></a>
+<!-- Connect with me -->
+<h3 align="center">🤝 Connect with me</h3>
+<p align="center">
+<a href="mailto:nroduc.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://phamhongduc.com" target="blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://dev.to/phamhongduc" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+<a href="https://linkedin.com/in/phamhongduc" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://fb.com/trollaze" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+---
 
-  <!-- Frontend -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+<!-- GitHub Stats -->
+<div align="center">
 
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://docs.nestjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phamhongduc-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhongduc-dev&layout=compact&theme=tokyonight&hide_border=true&locale=en" />
 
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=phamhongduc-dev&theme=tokyonight&hide_border=true" />
 
-  <!-- DevOps & Tools -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
+</div>
 
-  <!-- Other Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamhongduc-dev&show_icons=true&locale=en&layout=compact" alt="phamhongduc-dev"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamhongduc-dev&show_icons=true&locale=en" alt="phamhongduc-dev"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamhongduc-dev&" alt="phamhongduc-dev" /></p>
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=phamhongduc-dev&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
